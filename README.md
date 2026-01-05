@@ -2,8 +2,8 @@
 
 **Senior iOS Engineer** building delightful mobile experiences with SwiftUI & Combine
 
-🔭 Currently at **@Whitebox** 🇩🇪 - Crafting wealth management solutions for European markets  
-🌍 Based in **Dubai, UAE** 🇦🇪 | Working remotely for German fintech  
+🔭 Currently at **@Whitebox** - Crafting wealth management solutions for European markets  
+🌍 Based in **Dubai, UAE** 🇦🇪 | Working remotely for German fintech 🇩🇪  
 💻 8+ years shipping production iOS apps to **millions of users**
 
 ## What I Do
