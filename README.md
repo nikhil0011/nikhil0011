@@ -23,7 +23,7 @@ Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**.
 **Backend:** REST, GraphQL, WebSocket
 
 ## Featured Work
-- 💰 Real-time stock trading platform (Whitebox)
+- 💰 Real-time wealth management platform (Whitebox)
 - 🛍️ E-commerce at scale (Nykaa - 300K DAU)
 - 🗺️ Navigation SDK optimization (AHOY)
 
