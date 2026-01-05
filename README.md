@@ -20,6 +20,16 @@ Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**.
 **DevOps:** Fastlane, GitHub Actions, CI/CD  
 **Backend:** REST, GraphQL, WebSocket
 
+## 🛠 Tech Arsenal
+```swift
+let expertise = [
+    "Languages": ["Swift", "SwiftUI", "GraphQL"],
+    "Architecture": ["MVVM", "VIPER", "Clean", "POP"],
+    "DevOps": ["CI/CD", "Fastlane", "GitHub Actions"],
+    "Frameworks": ["Combine", "Async/Await", "UIKit"]
+]
+```
+
 ## Featured Work
 - 💰 Real-time stock trading platform (Whitebox)
 - 🛍️ E-commerce at scale (Nykaa - 300K DAU)
