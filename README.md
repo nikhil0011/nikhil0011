@@ -27,6 +27,23 @@ Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**.
 - 🛍️ E-commerce at scale (Nykaa - 300K DAU)
 - 🗺️ Navigation SDK optimization (AHOY)
 
+### 🏆 Career Highlights
+
+**Whitebox (2022-Present)**  
+→ Architected Combine-based real-time data streaming for stock prices  
+→ Built CI/CD pipeline cutting release time by 70%  
+→ Led team hiring & Scrum implementation
+
+**AHOY Dubai (2022-2023)**  
+→ Optimized navigation SDK reducing trip start by 60%  
+→ Halved build pipeline times saving $40K annually  
+→ Created 3 SPM packages for code reusability
+
+**Nykaa (2020-2022)**  
+→ Scaled India's leading beauty e-commerce app  
+→ Revamped 6 core modules for 300K daily users  
+→ Built Font & Styling SDK adopted across all platforms
+
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nikhil-nangia)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:nikhil.nangia85@gmail.com)
