@@ -24,23 +24,23 @@ Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**.
 
 ## 🏆 Career Highlights
 
-### **Whitebox (2022 - Present)**
-*Real-time wealth management platform*
-→ Architected Combine-based real-time data streaming for stock prices
-→ Built CI/CD pipeline cutting release time by **70%**
-→ Led team hiring & Scrum implementation
+### **Whitebox (2022 - Present)**  
+*Real-time wealth management platform*  
+→ Architected Combine-based real-time data streaming for stock prices  
+→ Built CI/CD pipeline cutting release time by **70%**  
+→ Led team hiring & Scrum implementation  
 
-### **AHOY Dubai (2022 - 2023)**
-*Navigation & Logistics Tech*
-→ Optimized navigation SDK reducing trip start time by **60%**
-→ Halved build pipeline times saving **$40K annually**
-→ Created 3 SPM packages for modular code reusability
+### **AHOY Dubai (2022 - 2023)**  
+*Navigation & Logistics Tech*  
+→ Optimized navigation SDK reducing trip start time by **60%**  
+→ Halved build pipeline times saving **$40K annually**  
+→ Created 3 SPM packages for modular code reusability  
 
-### **Nykaa (2020 - 2022)**
-*India's Leading Beauty E-commerce*
-→ Scaled app infrastructure for **300K+ Daily Active Users**
-→ Revamped 6 core modules to improve app stability
-→ Built custom Font & Styling SDK adopted across all platforms
+### **Nykaa (2020 - 2022)**  
+*India's Leading Beauty E-commerce*  
+→ Scaled app infrastructure for **300K+ Daily Active Users**  
+→ Revamped 6 core modules to improve app stability   
+→ Built custom Font & Styling SDK adopted across all platforms  
 
 ## Connect
 <div align="center">
