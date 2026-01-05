@@ -1,8 +1,10 @@
 # Nikhil Nangia
 
-**Senior iOS Engineer** crafting high-performance mobile experiences
+**Senior iOS Engineer** building delightful mobile experiences with SwiftUI & Combine
 
-Based in Dubai 🇦🇪 | Working with Whitebox 🇩🇪
+🔭 Currently at **@Whitebox** 🇩🇪 - Crafting wealth management solutions for European markets  
+🌍 Based in **Dubai, UAE** 🇦🇪 | Working remotely for German fintech  
+💻 8+ years shipping production iOS apps to **millions of users**
 
 ## What I Do
 Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**. Specialized in fintech, e-commerce, and real-time systems serving millions of users.
@@ -14,21 +16,11 @@ Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**.
 - 👥 14+ engineers hired & mentored
 - 🎯 30K+ active users on current platform
 
-## Tech Stack
+## 🛠 Tech Stack
 **Core:** Swift, SwiftUI, Combine, Async/Await  
 **Architecture:** MVVM, VIPER, Clean, Protocol-Oriented  
 **DevOps:** Fastlane, GitHub Actions, CI/CD  
 **Backend:** REST, GraphQL, WebSocket
-
-## 🛠 Tech Arsenal
-```swift
-let expertise = [
-    "Languages": ["Swift", "SwiftUI", "GraphQL"],
-    "Architecture": ["MVVM", "VIPER", "Clean", "POP"],
-    "DevOps": ["CI/CD", "Fastlane", "GitHub Actions"],
-    "Frameworks": ["Combine", "Async/Await", "UIKit"]
-]
-```
 
 ## Featured Work
 - 💰 Real-time stock trading platform (Whitebox)
