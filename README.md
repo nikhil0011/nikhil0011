@@ -1,41 +1,34 @@
-# 👋 Nikhil Nangia
+# Nikhil Nangia
 
-## Building Mobile Experiences That Scale
+**Senior iOS Engineer** crafting high-performance mobile experiences
 
-From scaling e-commerce apps to **5M+ downloads** to architecting real-time trading platforms, I transform complex business problems into elegant mobile solutions.
+Based in Dubai 🇦🇪 | Working with Whitebox 🇩🇪
 
-### 🎯 Current Focus
-Senior iOS Engineer at **Whitebox** (Germany) - Building wealth management tools that help Europeans invest smarter.
+## What I Do
+Building scalable iOS applications using **SwiftUI, Combine, and modern Swift**. Specialized in fintech, e-commerce, and real-time systems serving millions of users.
 
-### 🏆 Career Highlights
+## Quick Stats
+- 🏢 8+ years iOS development experience
+- 📱 Apps scaled to 5M+ downloads
+- ⚡ 70% faster CI/CD pipelines
+- 👥 14+ engineers hired & mentored
+- 🎯 30K+ active users on current platform
 
-**Whitebox (2022-Present)**  
-→ Architected Combine-based real-time data streaming for stock prices  
-→ Built CI/CD pipeline cutting release time by 70%  
-→ Led team hiring & Scrum implementation
+## Tech Stack
+**Core:** Swift, SwiftUI, Combine, Async/Await  
+**Architecture:** MVVM, VIPER, Clean, Protocol-Oriented  
+**DevOps:** Fastlane, GitHub Actions, CI/CD  
+**Backend:** REST, GraphQL, WebSocket
 
-**AHOY Dubai (2022-2023)**  
-→ Optimized navigation SDK reducing trip start by 60%  
-→ Halved build pipeline times saving $40K annually  
-→ Created 3 SPM packages for code reusability
+## Featured Work
+- 💰 Real-time stock trading platform (Whitebox)
+- 🛍️ E-commerce at scale (Nykaa - 300K DAU)
+- 🗺️ Navigation SDK optimization (AHOY)
 
-**Nykaa (2020-2022)**  
-→ Scaled India's leading beauty e-commerce app  
-→ Revamped 6 core modules for 300K daily users  
-→ Built Font & Styling SDK adopted across all platforms
-
-### 🔧 Favorite Tools
-Swift · SwiftUI · Combine · MVVM · Fastlane · GitHub Actions · GraphQL · Firebase
-
-### 📈 By The Numbers
-- **8** years in iOS development
-- **14+** engineers hired & mentored
-- **5M+** app downloads achieved
-- **70%** faster deployment cycles
-
-### 🌐 Find Me Online
-[LinkedIn](https://linkedin.com/in/nikhil-nangia)  · [Email](mailto:nikhil.nangia85@gmail.com)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nikhil-nangia)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:nikhil.nangia85@gmail.com)
 
 ---
 
-_Open to exciting opportunities in Dubai, remote positions, and challenging iOS projects_
+💼 Open to new opportunities | 🌍 Remote-friendly
